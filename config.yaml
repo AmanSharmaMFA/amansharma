@@ -1,16 +1,15 @@
-baseURL: http://example.org/
+baseURL: http://www.amansharma.co.uk/
 languageCode: en-us
-title: Forty
+title: Aman Sharma
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
+    buttonText: Learn More
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+      Welcome to my personal website!
+    title: Hi, my name is Aman
   blog: {}
   contact:
     address:

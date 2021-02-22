@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Forty"
+title = "Aman Sharma"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -37,8 +37,8 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Forty"
-    subtitle = "By HTML5 Up"
+    title = "Aman"
+    subtitle = "Sharma"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -81,9 +81,9 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, my name is Forty"
-    subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
-    buttonText = "Get Started"
+    title = "Hi, my name is Aman"
+    subtitle = "Welcome to my personal website!"
+    buttonText = "Learn more"
 
 
   # Tiles Section
@@ -138,7 +138,7 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Massa libero"
+    title = "About Me"
     subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
     Mauris aliquet magna magna sed nunc rhoncus pharetra. 
     Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
