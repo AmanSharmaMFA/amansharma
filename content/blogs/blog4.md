@@ -10,6 +10,8 @@ description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis mag
 draft: false
 image: pic07.jpg
 keywords: ""
-slug: aliquam
+slug: test4
 title: Aliquam
 ---
+
+Hello, this is a test.
